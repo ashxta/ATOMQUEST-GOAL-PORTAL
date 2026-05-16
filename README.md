@@ -19,7 +19,8 @@ The project is built using React and Vite for the frontend, with a scalable arch
 * State Management using Context API
 * Modular Component-Based Architecture
 <img width="1918" height="870" alt="image" src="https://github.com/user-attachments/assets/dc174bfb-e3d3-42ee-bc55-74f9150cc6c1" />
-![Uploading image.png…]()
+<img width="1918" height="870" alt="image" src="https://github.com/user-attachments/assets/b22b8192-3faa-460c-ae13-cd3e77d3528f" />
+
 
 
 ---
@@ -98,7 +99,8 @@ ATOMQUEST-GOAL-PORTAL/
 ---
 
 # Architecture Overview
-![Uploading image.png…]()
+<img width="977" height="567" alt="image" src="https://github.com/user-attachments/assets/6edb129d-901e-49cd-87eb-9cc777f1b0c5" />
+
 
 The application follows a modular full-stack architecture:
 

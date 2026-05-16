@@ -1,10 +1,9 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// Static SPA — builds to /dist, deployable on any static host (Vercel, Netlify,
-// GitHub Pages, S3). base './' keeps asset paths relative so it works on subpaths.
+// Vercel handles asset rewrites cleanly at the absolute root '/'
 export default defineConfig({
   plugins: [react()],
-  base: './',
+  base: '/', 
   build: { outDir: 'dist' },
 })
